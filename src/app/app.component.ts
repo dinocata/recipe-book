@@ -6,6 +6,6 @@ import {RecipeService} from "./recipes/recipe.service";
   templateUrl: './app.component.html',
   providers: [RecipeService]
 })
-export class AppComponent {
+export class RecipeBookAppComponent {
   
 }

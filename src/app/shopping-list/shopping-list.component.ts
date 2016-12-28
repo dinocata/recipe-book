@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {ShoppingListService} from "./shopping-list.service";
-import {Ingredient} from "../ingredient";
+import {Ingredient} from "../recipes/ingredient";
 
 @Component({
     selector: 'rb-shopping-list',
